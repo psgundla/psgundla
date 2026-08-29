@@ -1,123 +1,72 @@
-<h2 align="center">Hi, I'm Gundla Pranav Swaroop</h2>
+<h1 align="center">Gundla Pranav Swaroop</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?center=true&font=comfortaa&color=016EEA&size=24&lines=I%27m+Pranav;Applied%20AI%20Researcher;Web+Developer" />
-  </a>
+  <strong>PhD Researcher · Computational Oncology</strong>
+</p>
+
+<p align="center">
+  Computational pathology · Whole-slide imaging · Multi-omics
+</p>
+
+<p align="center">
+  <a href="https://psgundla.com/">Website</a> ·
+  <a href="https://linkedin.com/in/pranavswaroopgundla/">LinkedIn</a> ·
+  <a href="mailto:contact@psgundla.com">Email</a>
 </p>
 
 ---
 
-## 🔭 Current Research
+## 🔬 Research
 
-I’m currently a PhD student in the **Kocakavuk Lab** working on **Computational Oncology** with a focus on:
+I am a PhD student in the **Kocakavuk Lab** studying **adult diffuse gliomas** through histopathology and molecular data. My work connects genotype with phenotype and turns multimodal data into reproducible computational workflows.
 
-- Building genotype-to-phenotype relationships in **Adult Diffuse Gliomas**
-- Using **Whole Slide Images (WSIs)** and **multi-omics data** for tumor subtyping
-- Developing deep learning pipelines for spatial and molecular profiling
+- Build deep-learning models for **whole-slide images** and cancer subtype prediction
+- Integrate **transcriptomic, genomic, and imaging data**
+- Develop feature-extraction pipelines for spatial and molecular profiling
+- Make analyses reproducible with containers and HPC infrastructure
 
----
+## 🧬 Selected Research
 
-## 🧠 Learning Focus
+### [Genetic subtype prediction in diffuse gliomas with a vision transformer-based model](https://doi.org/10.1016/j.esmorw.2025.100474)
 
-- Implementing deep learning models on WSIs for cancer subtype prediction  
-- Learning feature extraction methods from histopathological images  
-- Integrating transcriptomics, genomics, and imaging data  
-- Improving documentation, reproducibility, and scientific communication  
-- Developing reproducible pipelines using containers and HPC infrastructure  
+Vision Transformer study of genetic subtype prediction in diffuse gliomas.  
+*ESMO Real World Data and Digital Oncology, 2025*
 
----
+### [Tumor-initiating genetics and therapy drive divergent molecular evolution in IDH-mutant gliomas](https://www.biorxiv.org/content/10.1101/2025.07.11.664189v1)
 
-## 🤝 Collaborations & Help
+Study of therapy-linked molecular evolution in IDH-mutant gliomas.  
+*bioRxiv, 2025*
 
-- 👯 I’m looking to collaborate in **glioma research using deep learning**
-- 🤔 I’m seeking input on **advanced DL techniques** in computational pathology
+### [CellViT++: Vision Transformers for Spatial Omics](https://github.com/psgundla/CellViT-Plus)
 
----
+Nuclei segmentation for whole-slide imaging and spatial-omics workflows.
 
-## 🌐 Portfolio & Contact
-
-- ✨ Portfolio: [psgundla.com](https://psgundla.com/)
-- 📫 Reach me:  <a href="mailto:contact@psgundla.com"><img alt="Outlook-Mail" align="center" width="60" height="30" src="assets/outlook.jpg" /></a>
-
----
-
-## :raising_hand_man: Connect with Me
-
-<p align="center">
-   <a href="https://www.instagram.com/pranav_swaroop_g/">
-      <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-   </a>
-   <a href="https://linkedin.com/in/pranavswaroopgundla/">
-      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-   </a>
-   <a href="https://twitter.com/im_pranavgundla">
-      <img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-   </a>
-</p>
-
----
-
-## 🔧 Technologies & Tools
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,opencv,sklearn,r,julia,bash,matlab,vscode,notion,stackoverflow,linux,debian,md,devto,regex,git,github,aws,azure,gcp,docker,mysql,figma,js,npm,nodejs,react,nextjs,tailwind,ts,vercel&theme=light" />
-  </a>
-</p>
-
----
-
-## 📂 Notable Projects
-
-- **[CLAM](https://github.com/mahmoodlab/CLAM)**  - Heatmaps for attention visualization with clionical-task specific predictions
-
-- **[TRIDENT](https://github.com/mahmoodlab/TRIDENT)**  - A comprehensive toolbox for the whole slide images projects with deep learning
-
-- **[CellViT++: Vision Transformers for Spatial Omics](https://github.com/psgundla/CellViT-Plus)** - Adaptive nuclei segmentation for WSIs 
-
----
-
-## 📝 Selected Publications / Preprints
-
-- [278P Genetic subtype prediction in diffuse gliomas with a vision transformer-based model](https://doi.org/10.1016/j.esmorw.2025.100474) - *ESMO RWD, 2025*
-- [Tumor-initiating genetics and therapy drive divergent molecular evolution in IDH-mutant gliomas ](https://www.biorxiv.org/content/10.1101/2025.07.11.664189v1) - *medRxiv, 2025*
-
-
----
-
-## 📚 Currently Reading
-
-- [CellViT++: Vision Transformers for Spatial Omics](https://github.com/psgundla/CellViT-Plus)
-
----
-
-## 🎧 Music & Life
-
-- Listen to music for **~9 hours/day** (lofi + classical while debugging!)  
-- Travel enthusiast — recently in 🇩🇪 🇳🇱 🇮🇳 🇭🇺 🇸🇮 🇫🇷 🇮🇹 
-- Enjoys cafe hopping, organizing socials & mentoring 
-
----
-
-## 🎖 Digital Badges
+## 🛠️ Core Stack
 
 <p>
- <img align="left" alt="Python for Data Science and AI" src="https://github.com/psgundla/psgundla/blob/master/python-for-data-science-and-ai.png" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,opencv,sklearn,r,bash,docker,linux,git&theme=dark" alt="Python, PyTorch, OpenCV, scikit-learn, R, Bash, Docker, Linux, and Git" />
 </p>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+- **AI and imaging:** Python, PyTorch, OpenCV, scikit-learn
+- **Research computing:** R, Bash, Docker, Linux, Git, HPC
+- **Methods:** computational pathology, whole-slide imaging, multi-omics, transcriptomics, spatial profiling
+
+## 🤝 Collaboration
+
+Open to collaboration on **glioma research, computational pathology, multimodal learning, and reproducible analysis pipelines**.
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub activity metrics" width="100%" />
+</p>
+
+## Beyond Research
+
+Lofi and classical music, travel, cafe hopping, community events, and mentoring.
 
 ---
 
 <p align="center">
-  <a href="https://github.com/psgundla?tab=repositories">
-    <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white" />
-  </a>
+  <a href="https://github.com/psgundla?tab=repositories">View all repositories</a>
 </p>
-
