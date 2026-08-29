@@ -37,7 +37,7 @@ Vision Transformer study of genetic subtype prediction in diffuse gliomas.
 Study of therapy-linked molecular evolution in IDH-mutant gliomas.  
 *bioRxiv, 2025*
 
-### [CellViT++: Vision Transformers for Spatial Omics](https://github.com/psgundla/CellViT-Plus)
+### [CellViT++: Vision Transformers for Spatial Omics](https://github.com/psgundla/CellViT-plus-plus)
 
 Nuclei segmentation for whole-slide imaging and spatial-omics workflows.
 
