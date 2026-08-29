@@ -43,13 +43,32 @@ Nuclei segmentation for whole-slide imaging and spatial-omics workflows.
 
 ## 🛠️ Core Stack
 
+**AI and imaging**
+
 <p>
-  <img src="https://skillicons.dev/icons?i=py,pytorch,opencv,sklearn,r,bash,docker,linux,git&theme=dark" alt="Python, PyTorch, OpenCV, scikit-learn, R, Bash, Docker, Linux, and Git" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3FB950" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=3FB950" />
+  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=3FB950" />
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=3FB950" />
+  <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-0D1117?style=for-the-badge&logo=huggingface&logoColor=3FB950" />
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=3FB950" />
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=3FB950" />
 </p>
 
-- **AI and imaging:** Python, PyTorch, OpenCV, scikit-learn
-- **Research computing:** R, Bash, Docker, Linux, Git, HPC
-- **Methods:** computational pathology, whole-slide imaging, multi-omics, transcriptomics, spatial profiling
+**Research computing**
+
+<p>
+  <img alt="R" src="https://img.shields.io/badge/R-0D1117?style=for-the-badge&logo=r&logoColor=3FB950" />
+  <img alt="Bash" src="https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=3FB950" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=3FB950" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=3FB950" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=3FB950" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-0D1117?style=for-the-badge&logo=github-actions&logoColor=3FB950" />
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=3FB950" />
+  <img alt="HPC" src="https://img.shields.io/badge/HPC-0D1117?style=for-the-badge&logoColor=3FB950" />
+</p>
+
+**Methods:** computational pathology · whole-slide imaging · multi-omics · transcriptomics · spatial profiling
 
 ## 🤝 Collaboration
 
