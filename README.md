@@ -68,7 +68,7 @@ Nuclei segmentation for whole-slide imaging and spatial-omics workflows.
   <img alt="HPC" src="https://img.shields.io/badge/HPC-0D1117?style=for-the-badge&logoColor=3FB950" />
 </p>
 
-**Methods:** computational pathology · whole-slide imaging · multi-omics · transcriptomics · spatial profiling
+**Methods:** computational pathology ·  spatial profiling ·  algorithms
 
 ## 🤝 Collaboration
 
