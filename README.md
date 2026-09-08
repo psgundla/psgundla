@@ -22,6 +22,7 @@ I am a PhD student in the **Kocakavuk Lab** studying **adult diffuse gliomas** t
 
 - Build deep-learning models for **whole-slide images** and cancer subtype prediction
 - Integrate **transcriptomic, genomic, and imaging data**
+- Align **H&E images with Xenium spatial transcriptomics** for cell-level analysis
 - Develop feature-extraction pipelines for spatial and molecular profiling
 - Make analyses reproducible with containers and HPC infrastructure
 
