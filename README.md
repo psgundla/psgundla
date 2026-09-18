@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Computational pathology · Whole-slide imaging · Multi-omics
+  Computational oncology · Spatial · Multi-omics
 </p>
 
 <p align="center">
