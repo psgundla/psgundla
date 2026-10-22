@@ -18,7 +18,7 @@
 
 ## 🔬 Research
 
-I am a PhD student in the **Kocakavuk Lab** studying **adult diffuse gliomas** through histopathology and molecular data. My work connects genotype with phenotype and turns multimodal data into reproducible computational workflows.
+I am a PhD student in the **Kocakavuk Lab** studying **adult diffuse gliomas** through histopathology and molecular data. My work connects genotype with phenotype translating into clinical solutions and turning the multimodal data into reproducible computational workflows.
 
 - Build deep-learning models for **whole-slide images** and cancer subtype prediction
 - Integrate **transcriptomic, genomic, and imaging data**
@@ -28,19 +28,15 @@ I am a PhD student in the **Kocakavuk Lab** studying **adult diffuse gliomas** t
 
 ## 🧬 Selected Research
 
-### [Genetic subtype prediction in diffuse gliomas with a vision transformer-based model](https://doi.org/10.1016/j.esmorw.2025.100474)
+### [Genetic subtype prediction in diffuse gliomas with a vision transformer-based model](#)
 
 Vision Transformer study of genetic subtype prediction in diffuse gliomas.  
 *ESMO Real World Data and Digital Oncology, 2025*
 
-### [Tumor-initiating genetics and therapy drive divergent molecular evolution in IDH-mutant gliomas](https://www.biorxiv.org/content/10.1101/2025.07.11.664189v1)
+### [Divergent genomic evolution in astrocytomas and oligodendrogliomas](https://www.nature.com/articles/s41586-026-11150-x)
 
 Study of therapy-linked molecular evolution in IDH-mutant gliomas.  
-*bioRxiv, 2025*
-
-### [CellViT++: Vision Transformers for Spatial Omics](https://github.com/psgundla/CellViT-plus-plus)
-
-Nuclei segmentation for whole-slide imaging and spatial-omics workflows.
+*Nature, 2026*
 
 ## 🛠️ Core Stack
 
